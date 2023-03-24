@@ -2,7 +2,7 @@
 
 My name is Kevin Kalathil and I love to solve problems - coding is my way of doing that. 
 
-I am currently a third year Computer Engineering student at the University of Waterloo seeking a four-month coop placement for Winter 2023 (January - April).
+I am currently a fourth year Computer Engineering student at the University of Waterloo seeking a four-month coop placement for Summer or Fall 2023 (May - August or September - December).
 
 Email: kkalathi@uwaterloo.ca
 
