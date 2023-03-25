@@ -4,6 +4,10 @@ My name is Kevin Kalathil and I love to solve problems - coding is my way of doi
 
 I am currently a fourth year Computer Engineering student at the University of Waterloo seeking a four-month coop placement for Summer or Fall 2023 (May - August or September - December).
 
+- 🔭 I’m currently working @ Niche as a SWE Intern
+- 🌱 I’m currently learning Rust, trying to learn the language and work on some open-source projects that I have my eyes on
+
+
 Email: kkalathi@uwaterloo.ca
 
 <!--
